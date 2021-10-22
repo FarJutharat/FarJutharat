@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Com-Sci KMITL, Bangkok Thailand
 - 👯 I’m looking to collaborate on Tech Article, New Tech
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farjutharat&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farjutharat&theme=omni&show_icons=true)
 
 
 <!--
