@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://github.com/farjutharat/farjutharat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farjutharat&theme=omni&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farjutharat&theme=omni&langs_count=4" />
 </a>
 
 
