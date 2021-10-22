@@ -4,9 +4,8 @@
 - 🌱 I’m currently learning Com-Sci KMITL, Bangkok Thailand
 - 👯 I’m looking to collaborate on Tech Article, New Tech
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farjutharat)](https://github.com/farjutharat/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farjutharat&theme=dark&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farjutharat&count_private=true)
 
 <!--
 **FarJutharat/FarJutharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
