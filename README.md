@@ -8,7 +8,9 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
   </a>
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farjutharat&count_private=true)
+
 <!--
 **FarJutharat/FarJutharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
