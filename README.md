@@ -4,12 +4,11 @@
 - 🌱 I’m currently learning Com-Sci KMITL, Bangkok Thailand
 - 👯 I’m looking to collaborate on Tech Article, New Tech
 ## 🛠️ My Skills
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
 <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
   </a>
+<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+  
 <!--
 **FarJutharat/FarJutharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
