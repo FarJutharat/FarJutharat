@@ -1,8 +1,8 @@
 ### Hi there, My name is Jutharat 👋
 
-🔭 I’m currently working on My coding project, Youtube editing , My Blog
-🌱 I’m currently learning Com-Sci KMITL, Bangkok Thailand
-👯 I’m looking to collaborate on Tech Article, New Tech
+- 🔭 I’m currently working on My coding project, Youtube editing , My Blog
+- 🌱 I’m currently learning Com-Sci KMITL, Bangkok Thailand
+- 👯 I’m looking to collaborate on Tech Article, New Tech
 <!--
 **FarJutharat/FarJutharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
