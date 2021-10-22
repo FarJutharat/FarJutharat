@@ -1,5 +1,5 @@
-### Hi there, My name is Jutharat 👋
-
+# Hi there, My name is Jutharat 👋
+## About me
 - 🔭 I’m currently working on My coding project, Youtube editing , My Blog
 - 🌱 I’m currently learning Com-Sci KMITL, Bangkok Thailand
 - 👯 I’m looking to collaborate on Tech Article, New Tech
