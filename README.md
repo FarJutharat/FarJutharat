@@ -6,6 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farjutharat&theme=omni&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farjutharat&layout=compact)](https://github.com/farjutharat/github-readme-stats)
 
 <!--
 **FarJutharat/FarJutharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
