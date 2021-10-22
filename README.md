@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Tech Article, New Tech
 
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/farjutharat/farjutharat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=farjutharat&theme=omni&show_icons=true&line_height=27&count_private=true" alt="Jutharat's GitHub Stats" />
 </a>
 
